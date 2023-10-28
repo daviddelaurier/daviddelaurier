@@ -3,7 +3,7 @@
 - **Location**: Athens, Georgia
 - **LinkedIn**: [linkedin.com/in/david-delaurier](https://linkedin.com/in/david-delaurier)
 - **Email**: [DataDeLaurier@gmail.com](mailto:DataDeLaurier@gmail.com)
-- **Phone**: +1 (706) 410-4272
+
 
 ## About Me
 
