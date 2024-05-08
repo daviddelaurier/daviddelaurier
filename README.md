@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @daviddelaurier
+- 👀 I’m interested in automating all work performed by humans interacting with computer interfaces.
+- 🌱 I’m currently learning how to train my Cobot arms using IsiacSim
+- 💞️ I’m looking to collaborate on a hardware device running computer vision models and telephoto camera system that tracks eye positioning of drivers to determin if they looked at the advertisment long enough to be effective. Gathering accurate and up-to-date impression data for the outdoor advertising industry is worth billions.
+- 📫 How to reach me: @DataDeLaurier
+- ⚡ Fun fact, only one of these is a False statement:
+- I wrote, directed, and produced a full length feature film.
+- I restore antique cars, furniture, clocks, pool tabels...
+- I developed and built an autonomous forgery robot that removes printer ink with lasers.
+- I have built an autonomous ceramic art studio.
+- I have two dogs.
+- I only work 40 hours a week.
